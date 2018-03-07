@@ -1,0 +1,140 @@
+body 
+{ 
+	background-color:#C3E9F6;
+} /*body*/
+
+h1 
+{
+	font-family:"bookman old style", sans-serif;
+    color:#001f4d;
+    text-align:center;
+} /*h1*/
+
+h2 
+{
+	font-family:"bookman old style", sans-serif;
+	color:#001f4d;
+	text-align:center;  
+} /*h2*/
+
+h3 
+{ 
+	font-family:"bookman old style", sans-serif;
+	color:#001f4d; 
+	text-align:center;
+} /*h2*/
+
+p {
+    font-family:"bookman old style", sans-serif;
+	text-align:left;
+	color:#001f4d;
+    font-size: 19px;
+} /*p*/
+
+ul 
+{ 
+	font-family:"bookman old style", sans-serif;
+	text-align:left; 
+	margin-left:auto; 
+	margin-right:auto;
+	font-size: 28px;
+	list-style-type:none;
+} /*ul*/
+
+img 
+{
+	display:block;
+	margin-left:auto; 
+	margin-right:auto;
+} /*img*/
+
+table 
+{ 
+	font-family:"bookman old style", sans-serif;
+	margin-left:auto; 
+	margin-right:auto; 
+	color:#001f4d; 
+	font-size:18px;
+	border-collapse:collapse;
+	width:100%;
+} /*table*/ 
+
+th, td
+{
+	border:1px solid #001f4d; 
+	text-align:center;
+	padding:8px;
+} /*th, td*/
+
+ul 
+{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#001f4d;
+} /*ul*/
+
+li 
+{
+    float:left;
+} /*li*/
+
+li a 
+{
+    display:block;
+    color:#BFE0E7;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+} /*li a*/
+
+li a:hover 
+{
+    background-color:#4892A1; 
+} /*li a:hover*/
+ 
+ #Home 
+{
+	font-family:"bookman old style", sans-serif;
+	margin-left:auto; 
+	margin-right:auto; 
+	color:#BFE0E7; 
+	font-size:23.4px;
+}
+
+#References 
+{ 
+	font-family:"bookman old style", sans-serif;
+	margin-left:auto; 
+	margin-right:auto; 
+	color:#BFE0E7 ; 
+	font-size:28px;
+}
+
+#About
+{
+	font-family:"bookman old style", sans-serif;
+	margin-left:auto; 
+	margin-right:auto; 
+	color:#BFE0E7; 
+	font-size:28px;
+}
+
+#Films  
+{
+	font-family:"bookman old style", sans-serif;
+	margin-left:auto; 
+	margin-right:auto; 
+	color:#BFE0E7; 
+	font-size:28px;
+}
+
+#Glossary 
+{
+	font-family:"bookman old style", sans-serif;
+	margin-left:auto; 
+	margin-right:auto; 
+	color:#BFE0E7 ; 
+	font-size:28px;
+}
